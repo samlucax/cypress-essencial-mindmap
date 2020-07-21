@@ -4,7 +4,7 @@
 
 <ol align="center"><strong>Legenda para as melhores práticas</strong>
   <p></p>
-  <p>vermelho - nao recomendado </br>
+  <p>vermelho - não recomendado </br>
   amarelo - é uma alternativa, mas não o ideal </br>
   verde - recomendado </p>
 </ol>

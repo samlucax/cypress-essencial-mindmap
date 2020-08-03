@@ -14,4 +14,4 @@
 
 
 <p align="center"><strong><i>Baixe esta imagem ou abra em uma nova aba para uma melhor visualização.</i></strong></p>
-<p align="cente">Caso você queira acessar o mindmap interativo, <a href="https://whimsical.com/XpeRr4NebcFJkC2Lpwm4W4" target"_blank">clique aqui</a></strong></p>
+<p align="center">Caso você queira acessar o mindmap interativo, <a href="https://whimsical.com/XpeRr4NebcFJkC2Lpwm4W4" target="_blank">clique aqui</a></strong></p>

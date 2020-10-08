@@ -2,6 +2,8 @@
 
 <p align="center">Um guia visual e direto ao ponto para quem deseja aprender, consultar ou explicar sobre o cypress.</p>
 
+[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+
 <ol align="center"><strong>Legenda para as melhores práticas</strong>
   <p></p>
   <p>vermelho - não recomendado </br>
